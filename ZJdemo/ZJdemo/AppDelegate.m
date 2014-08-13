@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     return YES;
-  //今天天气不错
+  //赵将是大帅哥
     
 }
 							
