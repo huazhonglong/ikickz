@@ -14,8 +14,7 @@
 {
     // Override point for customization after application launch.
     return YES;
-    //fadskl;fjkdsla;fjlkdsjflkd;asjfkadls;
-    //fdsali;fdjskl;fjdskal;f
+    //zhaozhaozhao
     
 }
 							
