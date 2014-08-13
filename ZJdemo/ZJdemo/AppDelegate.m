@@ -15,6 +15,7 @@
     // Override point for customization after application launch.
     return YES;
   //赵将是大帅哥
+    //还是一个大帅哥
     
 }
 							
