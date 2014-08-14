@@ -22,7 +22,6 @@
 
 - (void)didReceiveMemoryWarning
 {
-    //发大水范德萨发生大
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
