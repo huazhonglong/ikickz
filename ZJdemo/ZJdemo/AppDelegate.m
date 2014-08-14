@@ -17,6 +17,7 @@
 
     //快了，快搞定了
     // 哈哈  我是天才
+    // 老赵你真是个天才
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
