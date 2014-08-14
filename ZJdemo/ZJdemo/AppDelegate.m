@@ -15,7 +15,8 @@
     // Override point for customization after application launch.
     return YES;
 
-    //快了，快搞定了 
+    //快了，快搞定了
+    // 哈哈  我是天才
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
