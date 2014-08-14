@@ -14,14 +14,7 @@
 {
     // Override point for customization after application launch.
     return YES;
-    //真的快搞定了
-    //老赵你真是个天才
-    //真的快搞定了
-    //老赵你真是个天才
-    //真的快搞定了
-    //老赵你真是个天才
-    //真的快搞定了
-    //老赵你真是个天才
+ 
     
 }
 							
