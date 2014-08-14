@@ -14,9 +14,7 @@
 {
     // Override point for customization after application launch.
     return YES;
- 
-    //今天天气不错。
-     //今天天气不错。 //今天天气不错。 //今天天气不错。 //今天天气不错。 //今天天气不错。 //今天天气不错。
+ //呵呵
 }
 							
 - (void)applicationWillResignActive:(UIApplication *)application
