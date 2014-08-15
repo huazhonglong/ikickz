@@ -42,6 +42,7 @@
     NSLog(@"123");    NSLog(@"123");
     NSLog(@"123");
     NSLog(@"123");
+    NSLog(@"111111");
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
