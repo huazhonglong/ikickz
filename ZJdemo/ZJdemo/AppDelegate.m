@@ -15,17 +15,7 @@
     // Override point for customization after application launch.
     return YES;
  //dlskafjdsalkfjldsafjds lkafldsa
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
+ 
 
 }
 
