@@ -14,35 +14,7 @@
 {
     // Override point for customization after application launch.
     return YES;
- //dlskafjdsalkfjldsafjds lkafldsa
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"123");
-    NSLog(@"111111");
+//这是jiang的分支
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
